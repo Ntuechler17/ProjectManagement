@@ -1,0 +1,30 @@
+h2 {color: cornflowerblue;
+    font-size: 25px;}
+
+.cognitive1 {text-align: right;
+    color: red;}
+
+table, th, td {border: 1px solid blue;}
+
+p.dotted {border-style: dotted;}
+
+p.dashed {border-style: dashed;}
+
+p.solid {border-style: solid;}
+
+p.groove {border-style: groove;}
+
+p.mix {border-style: dotted dashed;}
+
+p.hidden {border-style: hidden;}
+
+h1 {color: brown;}
+
+h1 {background-color: aquamarine;}
+
+.p6 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.p5 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.p4 {font-family: Georgia, 'Times New Roman', Times, serif;}
+    
